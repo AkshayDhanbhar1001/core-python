@@ -1,2 +1,2 @@
-# core-python
+# SQL and Power BI
 programming and projects
